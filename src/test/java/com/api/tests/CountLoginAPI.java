@@ -1,10 +1,10 @@
 package com.api.tests;
 
-public class LoginAPITest {
+public class CountLoginAPI {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Hello Automation");
+
+System.out.println("My Own code");
 
 	}
 
